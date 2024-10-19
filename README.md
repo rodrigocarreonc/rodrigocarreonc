@@ -20,24 +20,23 @@ Mis principales pasiones incluyen:
 
 ### ⚙️ Stack Tecnológico
 
-<div style="display: flex; justify-content: space-around;">
-        <ul style="list-style-type: none; padding: 0; margin: 0 20px; border: 1px solid #ccc; border-radius: 5px; padding: 10px; width: 200px;">
-            <li style="font-weight: bold; text-align: center; margin-bottom: 10px;">Lenguajes y Frameworks</li>
-            <li>Java (Spring Boot)</li>
-            <li>PHP (Laravel)</li>
-            <li>Dart (Flutter)</li>
-        </ul>
-        <ul style="list-style-type: none; padding: 0; margin: 0 20px; border: 1px solid #ccc; border-radius: 5px; padding: 10px; width: 200px;">
-            <li style="font-weight: bold; text-align: center; margin-bottom: 10px;">Bases de Datos</li>
-            <li>MySQL</li>
-            <li>PostgreSQL (Supabase)</li>
-        </ul>
-        <ul style="list-style-type: none; padding: 0; margin: 0 20px; border: 1px solid #ccc; border-radius: 5px; padding: 10px; width: 200px;">
-            <li style="font-weight: bold; text-align: center; margin-bottom: 10px;">Herramientas</li>
-            <li>Git & GitHub</li>
-            <li>AWS</li>
-        </ul>
-    </div>
+**Lenguajes y Frameworks**  
+- Java (Spring Boot)  
+- PHP (Laravel)  
+- Dart (Flutter)  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+**Bases de Datos**  
+- MySQL  
+- PostgreSQL (Supabase)  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+**Herramientas**  
+- Git & GitHub  
+- AWS  
+- Docker  
 
 ---
 
