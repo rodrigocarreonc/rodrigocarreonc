@@ -1,6 +1,5 @@
-# 👋 ¡Hola, soy Rodrigo Carreón! 🚀
-
-## 💻 Backend Developer | Estudiante de TICs 👨‍💻
+<h1 align="center">👋 ¡Hola, soy Rodrigo Carreón! 🚀</h1>
+<h3 align="center">💻 Backend Developer | Estudiante de TICs 👨‍💻</h3>
 
 ### 📫 Contacto
 - **Email**: rodrigocarreon21@gmail.com
