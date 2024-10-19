@@ -20,7 +20,8 @@ Mis principales pasiones incluyen:
 
 ### ⚙️ Stack Tecnológico
 
-<div style="display: flex; justify-content: space-between;">
+
+<div style="display: flex; justify-content: space-around; text-align: left;">
     <div>
         <h4>Lenguajes y Frameworks</h4>
         <ul>
