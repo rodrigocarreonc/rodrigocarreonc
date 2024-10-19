@@ -1,52 +1,49 @@
-<h1 align="center">Hi 👋, I'm <a href="https://rodrigocarreon.com" target="_blank">Rodrigo Carreón</a></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
+# 👋 ¡Hola, soy Rodrigo Carreón! 🚀
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+## 💻 Backend Developer | Estudiante de TICs 👨‍💻
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+### 📫 Contacto
+- **Email**: rodrigocarreon21@gmail.com
+- **LinkedIn**: [linkedin.com/in/rodrigocarreon](https://www.linkedin.com/in/rodrigocarreon)
+- **Portafolio**: [rodrigocarreon.com](https://www.rodrigocarreon.com)
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
-
-</p>
 ---
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
+### 🎯 Sobre mí
+Soy un apasionado desarrollador backend con un amor profundo por crear soluciones eficientes y escalables. Actualmente soy estudiante de Ingeniería en Tecnologías de la Información y Comunicaciones, combinando teoría académica con proyectos prácticos para desarrollar aplicaciones robustas. Siempre estoy en busca de nuevos retos para seguir aprendiendo y mejorando.
+
+Mis principales pasiones incluyen:
+- 🌱 **Desarrollo Backend:** Especializado en construir APIs eficientes y seguras.
+- 📚 **Aprendizaje continuo:** Nunca dejo de explorar nuevas tecnologías y tendencias.
+- 🛠️ **Resolución de problemas:** Me encanta enfrentar retos técnicos y encontrar soluciones innovadoras.
+
+---
+
+### ⚙️ Stack Tecnológico
+
+- **Lenguajes y frameworks:**
+  - Java (Spring Boot)
+  - PHP (Laravel)
+  - Dart (Flutter)
+
+- **Bases de datos:**
+  - MySQL
+  - PostgreSQL (Supabase)
+
+- **Herramientas:**
+  - Git & GitHub
+  - AWS
+  
+---
+
+### 🌟 Lo que me motiva
+
+🚀 **Innovación**: Estoy siempre en busca de nuevas formas de optimizar y automatizar procesos.
+
+💡 **Creatividad**: Disfruto de convertir ideas en soluciones que hacen la vida más fácil a los usuarios.
+
+💼 **Colaboración**: Amo trabajar en equipo y aprender de otros profesionales para crecer juntos en el mundo de la tecnología.
+
+---
+
+¡Gracias por pasarte por aquí! Si te interesa colaborar o simplemente quieres charlar, no dudes en contactarme. 😊
