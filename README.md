@@ -3,7 +3,7 @@
 
 ### 📫 Contacto
 - **Email**: rodrigocarreon21@gmail.com
-- **LinkedIn**: [linkedin.com/in/rodrigocarreon](https://www.linkedin.com/in/rodrigocarreon)
+- **LinkedIn**: [Rodrigo Carreón](https://www.linkedin.com/in/rodrigocarreon)
 - **Portafolio**: [rodrigocarreon.com](https://www.rodrigocarreon.com)
 
 ---
