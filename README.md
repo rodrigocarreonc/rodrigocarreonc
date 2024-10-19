@@ -19,19 +19,33 @@ Mis principales pasiones incluyen:
 ---
 
 ### ⚙️ Stack Tecnológico
-- **Lenguajes y frameworks:**
-  - Java (Spring Boot)
-  - PHP (Laravel)
-  - Dart (Flutter)
 
-- **Bases de datos:**
-  - MySQL
-  - PostgreSQL (Supabase)
+<div style="display: flex; justify-content: space-between; text-align: left;">
+    <div style="margin-right: 20px;">
+        <h4>Lenguajes y Frameworks</h4>
+        <ul>
+            <li>Java (Spring Boot)</li>
+            <li>PHP (Laravel)</li>
+            <li>Dart (Flutter)</li>
+        </ul>
+    </div>
+    <div style="margin-right: 20px;">
+        <h4>Bases de Datos</h4>
+        <ul>
+            <li>MySQL</li>
+            <li>PostgreSQL (Supabase)</li>
+        </ul>
+    </div>
+    <div>
+        <h4>Herramientas</h4>
+        <ul>
+            <li>Git & GitHub</li>
+            <li>AWS</li>
+            <li>Docker</li>
+        </ul>
+    </div>
+</div>
 
-- **Herramientas:**
-  - Git & GitHub
-  - AWS
-  - Docker
 ---
 
 ### 🌟 Lo que me motiva
