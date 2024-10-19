@@ -19,9 +19,9 @@ Mis principales pasiones incluyen:
 ---
 
 ### ⚙️ Stack Tecnológico
-- **Lenguajes y frameworks:**        - **Bases de datos:**
-  - Java (Spring Boot)                -MySQL
-  - PHP (Laravel)                     -PostgreSQL
+- **Lenguajes y frameworks:**
+  - Java (Spring Boot)
+  - PHP (Laravel)
   - Dart (Flutter)
 
 - **Bases de datos:**
