@@ -19,10 +19,8 @@ Mis principales pasiones incluyen:
 ---
 
 ### ⚙️ Stack Tecnológico
-
-
-<div style="display: flex; justify-content: space-around; text-align: left;">
-    <div>
+<div style="display: flex; justify-content: space-between; text-align: left;">
+    <div style="margin-right: 20px;">
         <h4>Lenguajes y Frameworks</h4>
         <ul>
             <li>Java (Spring Boot)</li>
@@ -30,7 +28,7 @@ Mis principales pasiones incluyen:
             <li>Dart (Flutter)</li>
         </ul>
     </div>
-    <div>
+    <div style="margin-right: 20px;">
         <h4>Bases de Datos</h4>
         <ul>
             <li>MySQL</li>
