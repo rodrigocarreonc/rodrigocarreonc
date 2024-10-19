@@ -23,20 +23,15 @@ Mis principales pasiones incluyen:
 **Lenguajes y Frameworks**  
 - Java (Spring Boot)  
 - PHP (Laravel)  
-- Dart (Flutter)  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- Javascript
 
 **Bases de Datos**  
 - MySQL  
-- PostgreSQL (Supabase)  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- PostgreSQL
 
 **Herramientas**  
 - Git & GitHub  
-- AWS  
-- Docker  
+- AWS 
 
 ---
 
