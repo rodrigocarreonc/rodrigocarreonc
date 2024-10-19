@@ -20,31 +20,24 @@ Mis principales pasiones incluyen:
 
 ### ⚙️ Stack Tecnológico
 
-<div style="display: flex; justify-content: space-between; text-align: left;">
-    <div style="margin-right: 20px;">
-        <h4>Lenguajes y Frameworks</h4>
-        <ul>
+<div style="display: flex; justify-content: space-around;">
+        <ul style="list-style-type: none; padding: 0; margin: 0 20px; border: 1px solid #ccc; border-radius: 5px; padding: 10px; width: 200px;">
+            <li style="font-weight: bold; text-align: center; margin-bottom: 10px;">Lenguajes y Frameworks</li>
             <li>Java (Spring Boot)</li>
             <li>PHP (Laravel)</li>
             <li>Dart (Flutter)</li>
         </ul>
-    </div>
-    <div style="margin-right: 20px;">
-        <h4>Bases de Datos</h4>
-        <ul>
+        <ul style="list-style-type: none; padding: 0; margin: 0 20px; border: 1px solid #ccc; border-radius: 5px; padding: 10px; width: 200px;">
+            <li style="font-weight: bold; text-align: center; margin-bottom: 10px;">Bases de Datos</li>
             <li>MySQL</li>
             <li>PostgreSQL (Supabase)</li>
         </ul>
-    </div>
-    <div>
-        <h4>Herramientas</h4>
-        <ul>
+        <ul style="list-style-type: none; padding: 0; margin: 0 20px; border: 1px solid #ccc; border-radius: 5px; padding: 10px; width: 200px;">
+            <li style="font-weight: bold; text-align: center; margin-bottom: 10px;">Herramientas</li>
             <li>Git & GitHub</li>
             <li>AWS</li>
-            <li>Docker</li>
         </ul>
     </div>
-</div>
 
 ---
 
