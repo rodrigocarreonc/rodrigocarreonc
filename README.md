@@ -9,7 +9,7 @@
 ---
 
 ### 🎯 Sobre mí
-Soy un apasionado desarrollador backend con un amor profundo por crear soluciones eficientes y escalables. Actualmente soy estudiante de Ingeniería en Tecnologías de la Información y Comunicaciones, combinando teoría académica con proyectos prácticos para desarrollar aplicaciones robustas. Siempre estoy en busca de nuevos retos para seguir aprendiendo y mejorando.
+Soy un apasionado desarrollador backend especialista en crear soluciones eficientes y escalables. Actualmente soy estudiante de Ingeniería en Tecnologías de la Información y Comunicaciones, combinando la teoría con la práctica desarrollando proyectos prácticos para aplicaciones robustas. Siempre estoy en busca de nuevos retos para seguir aprendiendo y mejorando.
 
 Mis principales pasiones incluyen:
 - 🌱 **Desarrollo Backend:** Especializado en construir APIs eficientes y seguras.
@@ -53,8 +53,8 @@ Mis principales pasiones incluyen:
 
 💡 **Creatividad**: Disfruto de convertir ideas en soluciones que hacen la vida más fácil a los usuarios.
 
-💼 **Colaboración**: Amo trabajar en equipo y aprender de otros profesionales para crecer juntos en el mundo de la tecnología.
+💼 **Colaboración**: Trabajar en equipo y aprender de otros profesionales para crecer juntos en el mundo de la tecnología.
 
 ---
 
-¡Gracias por pasarte por aquí! Si te interesa colaborar o simplemente quieres charlar, no dudes en contactarme. 😊
+¡Gracias por pasarte por aquí! Distruta tu paseo por una parte de mi mente, la cual es mi código :))
