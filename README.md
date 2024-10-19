@@ -23,7 +23,7 @@ Mis principales pasiones incluyen:
 - **Lenguajes y frameworks:**
   - Java (Spring Boot)
   - PHP (Laravel)
-  - Dart (Flutter)
+  - Javascript
 
 - **Bases de datos:**
   - MySQL
