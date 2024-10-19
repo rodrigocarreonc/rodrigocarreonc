@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola, soy Rodrigo Carreón! 🚀</h1>
 <h3 align="center">💻 Backend Developer | Estudiante de TICs 👨‍💻</h3>
 
-### 📫 Contacto
+### 📫 Contactame
 - **Email**: rodrigocarreon21@gmail.com
 - **LinkedIn**: [Rodrigo Carreón](https://www.linkedin.com/in/rodrigocarreon)
 - **Portafolio**: [rodrigocarreon.com](https://www.rodrigocarreon.com)
@@ -27,7 +27,7 @@ Mis principales pasiones incluyen:
 
 - **Bases de datos:**
   - MySQL
-  - PostgreSQL (Supabase)
+  - PostgreSQL
 
 - **Herramientas:**
   - Git & GitHub
