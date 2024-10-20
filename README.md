@@ -31,17 +31,6 @@ Mis principales pasiones incluyen:
 
 **Herramientas**  
 - Git & GitHub  
-- AWS 
-
----
-
-### 🌟 Lo que me motiva
-
-🚀 **Innovación**: Estoy siempre en busca de nuevas formas de optimizar y automatizar procesos.
-
-💡 **Creatividad**: Disfruto de convertir ideas en soluciones que hacen la vida más fácil a los usuarios.
-
-💼 **Colaboración**: Trabajar en equipo y aprender de otros profesionales para crecer juntos en el mundo de la tecnología.
 
 ---
 
