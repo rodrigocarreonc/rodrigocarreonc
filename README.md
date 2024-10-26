@@ -19,34 +19,23 @@ Mis principales pasiones incluyen:
 ---
 
 ### ⚙️ Stack Tecnológico
-
-**Lenguajes y Frameworks**  
-- Java (Spring Boot)  
-- PHP (Laravel)  
-- Javascript
-
-**Bases de Datos**  
-- MySQL  
-- PostgreSQL
-
-**Herramientas**  
-- Git & GitHub  
-
----
-## My Skills Include
-
-<h4> Languages </h4>
+<h4>Lenguajes y Frameworks</h4>
 <span> 
-  <img src="https://img.shields.io/badge/php?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  [Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </span>
-
-
-<h4> Other Tools and Technologies </h4>
+<h4>Bases de datos</h4>
+<span>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+</span>
+<h4>Herramientas</h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </span>
 
